@@ -1,8 +1,43 @@
-# Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning
+<div align="center">
 
-Training and evaluation configuration for the paper **Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning**.
+# 🧠 Architecture-Conditioned Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning
 
-**Paper:** [arXiv:2606.11634](https://arxiv.org/abs/2606.11634) · **EMNLP 2026**
+<p>
+  <a href="https://arxiv.org/abs/2606.11634">
+    <img src="https://img.shields.io/badge/📄_Paper-arXiv%3A2606.11634-B31B1B?style=for-the-badge" alt="Paper">
+  </a>
+  <a href="https://arxiv.org/abs/2606.11634">
+    <img src="https://img.shields.io/badge/🎓_EMNLP-2026-4B8BBE?style=for-the-badge" alt="EMNLP 2026">
+  </a>
+  <a href="https://huggingface.co/collections/KaiLiu1998/swa-sft-models">
+    <img src="https://img.shields.io/badge/🤗_Models-Hugging_Face-FFD21E?style=for-the-badge" alt="Hugging Face Models">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/⚖️_License-Apache_2.0-2EA44F?style=for-the-badge" alt="License">
+  </a>
+  <a href="https://github.com/LKJacky/alloylm">
+    <img src="https://img.shields.io/badge/⚡_Built_with-AlloyLM-6F42C1?style=for-the-badge" alt="AlloyLM">
+  </a>
+</p>
+
+**Training and evaluation configuration for the paper**  
+*Architecture-Conditioned Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning*
+
+</div>
+
+---
+
+## 🔗 Quick Links
+
+| | Resource | Link |
+|---|---|---|
+| 📄 | Paper | [arXiv:2606.11634](https://arxiv.org/abs/2606.11634) |
+| 🎓 | Venue | **EMNLP 2026** |
+| 🤗 | Model Collection | [KaiLiu1998/swa-sft-models](https://huggingface.co/collections/KaiLiu1998/swa-sft-models) |
+| ⚡ | Training Framework | [AlloyLM](https://github.com/LKJacky/alloylm) |
+| ⚖️ | License | [Apache-2.0](LICENSE) |
+
+---
 
 ## Pipeline
 
