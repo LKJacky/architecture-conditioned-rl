@@ -1,0 +1,4 @@
+{"messages":[{"role":"user","content":"What is 2 + 2? Return only the final answer in \\boxed{}."}],"answer":"4"}
+{"messages":[{"role":"user","content":"What is 3 + 5? Return only the final answer in \\boxed{}."}],"answer":"8"}
+{"messages":[{"role":"user","content":"What is 10 - 4? Return only the final answer in \\boxed{}."}],"answer":"6"}
+{"messages":[{"role":"user","content":"What is 6 * 7? Return only the final answer in \\boxed{}."}],"answer":"42"}

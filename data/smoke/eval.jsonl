@@ -1,0 +1,2 @@
+{"messages":[{"role":"user","content":"What is 1 + 1? Return only the final answer in \\boxed{}."}],"answer":"2"}
+{"messages":[{"role":"user","content":"What is 9 - 3? Return only the final answer in \\boxed{}."}],"answer":"6"}
